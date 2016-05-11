@@ -1,7 +1,7 @@
 ﻿
-hello world
-
-idan maniac
- hi doron
-
-idan go to sleep
+=======
+﻿hellow world
+>>>>>>> parent of 5c826bf... new
+=======
+﻿
+>>>>>>> parent of 1e16f0d... added hello world

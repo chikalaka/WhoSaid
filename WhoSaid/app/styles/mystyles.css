@@ -1,0 +1,249 @@
+#jambohome{
+    padding-bottom: 200px;
+    padding-top: 160px ; 
+    height: 520;
+    margin-bottom: 0px;
+    background-color: cadetblue;
+    color:beige;
+}
+.jambo-hheader{
+    padding-bottom: 20px;
+    padding-top: 20px ; 
+    height: 150px;
+    margin-bottom: 0px;
+    font-size: 63px;
+    font-weight: bold;
+    background-color: cadetblue;
+    color:beige;
+}
+.jambo-body{
+    height: 600px;
+    margin-bottom: 0px;
+}
+#homet{
+    font-size: 10vw;
+   
+}
+#widthwelcome{
+    width: inherit;
+}
+#widthprofile{
+    width: 100%;
+}
+#marginprofile{
+    margin-top: 30px;
+}
+#textcolorRM{
+    color:black;
+}
+#imgprop{
+    margin-left:300px; 
+    margin-top:50px;
+    border: 2px;
+}
+#wallwidth{
+    width: inherit;
+    margin-right: 40px;
+}
+#insertwidth{
+    width: 415px;
+}
+.lline{
+    margin-left:50px; 
+    margin-bottom: 8px;
+    border-bottom: 2px ridge;
+    width: 1000px;
+    align-content: center;
+}
+#fixedbutton {
+    margin-top: 5px;
+    margin-left: 50px;
+   
+}
+#poss{
+    top:0px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
+#groupnamepost{
+    padding-left: 0px;
+    margin-left: 16px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 20%;
+}
+#faqbackanswer{
+    background-color:#8fbbbc; 
+    color:white;
+}
+#createname{
+    margin-top: 50px;
+}
+#createleftmargin{
+    margin-left: 20px;
+}
+#createwidth{
+    width: 50%;
+}
+#createleftsearch{
+    margin-left:150px;
+}
+#groupheader{
+    background-color: cadetblue;
+    color:beige; 
+    width=180px;
+    height=80px;
+    text-align: center;
+}
+#groupboxh{
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 100%;
+}
+#groupsize{
+    margin-left: 0px;
+    font-size: 3vw;
+}
+.row-footer{
+    height: 200px;
+    background-color:darkgrey;
+    margin:0px;
+    padding: 20px 0px 20px 0px;
+
+}
+
+#logos{
+    padding: 30px 10px; 
+    height:80px;
+}
+
+#well1{
+    height: 190px; width: 250px;
+}
+
+#well2{
+    height:300px; width: 250px;
+}
+#well3{
+     height: 220px;
+width: 450px;
+}
+.q{
+    margin-top: 8px;
+   margin-left: 20px;
+    margin-right: 20px;
+    
+}
+#Q{
+    background-color:burlywood;
+    color:antiquewhite;
+}
+.groups{
+   margin-top: 10px;
+   margin-left: 8px;
+    font-size: 30px;
+ 
+}
+
+
+/* circle add button******************************/
+.round-button {
+    display:block;
+    width:50px;
+    height:50px;
+    line-height:50px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background:cadetblue;
+    margin-left: 110px;
+    margin-top: 50px;
+    font-size:30px;
+    font-weight:bold;
+}
+.round-button:hover {
+    background: antiquewhite;
+   
+}
+
+/* Search friends *********************************/
+.add-on .input-group-btn > .btn {
+  border-left-width:0;left:-2px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+/* stop the glowing blue shadow */
+.add-on .form-control:focus {
+ box-shadow:none;
+ -webkit-box-shadow:none; 
+ border-color:#cccccc; 
+}
+
+
+
+
+/* CARUCEL****************************************/
+#main-container {
+  padding: 0px 0px;
+   
+    width: auto;
+    
+}
+.skyblue {
+	background-color:aquamarine;
+}
+.deepskyblue {
+	background-color: aquamarine;
+}
+.darkerskyblue {
+	background-color: aquamarine;
+}
+.carousel-indicators {
+	bottom: 0;
+}
+.carousel-control.right,
+.carousel-control.left {
+	background-image: none;
+}
+.carousel .item {
+	min-height: 450px; 
+	height: 100%;
+	width:100%; 
+}
+.carousel-caption h3,
+.carousel .icon-container,
+.carousel-caption button {
+	background-color: #09c;
+    margin-top: 90px;
+}
+.carousel-caption h3 {
+	padding: .5em;
+}
+.carousel .icon-container {
+	display: inline-block;
+	font-size: 25px;
+	line-height: 25px;
+	padding: 1em;
+	text-align: center;
+	border-radius: 50%;
+}
+.carousel-caption button {
+	border-color: #00bfff;
+	margin-top: 1em; 
+}
+
+/* Animation delays */
+.carousel-caption h3:first-child {
+	animation-delay: 1s;
+}
+.carousel-caption h3:nth-child(2) {
+	animation-delay: 2s;
+}
+.carousel-caption button {
+	animation-delay: 3s;
+}
+
+
+
