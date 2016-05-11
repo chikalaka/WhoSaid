@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿i deleted all!!
+=======
 ﻿
 =======
 ﻿hellow world
@@ -5,9 +8,17 @@
 =======
 ﻿
 >>>>>>> parent of 1e16f0d... added hello world
+<<<<<<< HEAD
 
 
 i want to make damage
 vvvvvvvv
 
 iw ant you to confirm that please!!!!
+=======
+
+
+i want to make damage
+vvvvvvvv
+>>>>>>> origin/master
+>>>>>>> refs/remotes/origin/master
