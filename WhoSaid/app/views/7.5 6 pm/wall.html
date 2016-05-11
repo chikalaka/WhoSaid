@@ -1,0 +1,4 @@
+we should order here by date
+<div ng-repeat="group in groups">
+    <div ng-repeat="item in group.items | orderBy: 'dateTime': true">{{item.sentence}} {{item.dateTime}}</div>
+</div>
