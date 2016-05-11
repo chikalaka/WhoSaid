@@ -4,4 +4,8 @@ hello world
 idan maniac
  hi doron
 
+<<<<<<< HEAD
 idan go to sleep
+=======
+im editing now the text in my computer
+>>>>>>> refs/remotes/origin/edanBranch
